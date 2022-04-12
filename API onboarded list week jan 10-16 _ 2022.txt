@@ -1,0 +1,24 @@
+>>> these will be only used in ITG and will NOT got to production <<<
+
+Please create the following ITG services for PGS  
+
+service name:  store-hp2b-dev3live.corp.hpicloud.net-10151
+backend URL: https://store-hp2b-dev3live.corp.hpicloud.net/wcs/resources/store/10151/pay_instr
+
+service name:  store-hp2b-dev3live.corp.hpicloud.net-10153
+backend URL: https://store-hp2b-dev3live.corp.hpicloud.net/wcs/resources/store/10153/pay_instr
+
+service name:  itg3.hp2b.hp.com-10151
+backend URL: https://itg3.hp2b.hp.com/wcs/resources/store/10151/pay_instr
+
+service name: itg3.hp2b.hp.com-10153
+backend URL: https://itg3.hp2b.hp.com/wcs/resources/store/10153/pay_instr
+
+
+
+>>> these will be only used in ITG and will NOT got to production <<<
+
+Please create the following ITG services for PGS  
+
+service name:  hp2b.app.dev-10153
+backend URL: https://app.dev.hp2b.hp.com/wcs/resources/store/10153/pay_instr
